@@ -13,3 +13,24 @@ h1{
   font-size: 1,75em;
   margin: 20px;
 }
+
+#title1{
+  background-color: #D59898;
+  }
+
+#title2{
+  background-color: #C14643;
+  }
+#title3{
+  background-color: #E5D198;
+  }
+
+.dish{
+  float: right;
+  position: relative;
+  top: -1px;
+  left: 1px;
+  padding: 5px 50px;
+  border: 1px #000000 solid;
+  font-size: 1,25em;
+}
